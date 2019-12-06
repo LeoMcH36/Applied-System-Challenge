@@ -1,0 +1,112 @@
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\Applied Systems web.dll.config
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\Applied Systems web.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\Applied Systems web.pdb
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csc.exe
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csc.exe.config
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csc.rsp
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csi.exe
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csi.exe.config
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csi.rsp
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.AppContext.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Collections.Immutable.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Console.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.Compression.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.FileSystem.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.Pipes.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Reflection.Metadata.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.AccessControl.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Claims.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.ValueTuple.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Xml.XPath.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\vbc.exe
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\vbc.exe.config
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\vbc.rsp
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\VBCSCompiler.exe
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\VBCSCompiler.exe.config
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.csprojAssemblyReference.cache
+F:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.csproj.CoreCompileInputs.cache
+F:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.csproj.CopyComplete
+F:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.dll
+F:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.pdb
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\Applied Systems web.dll.config
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\Applied Systems web.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\Applied Systems web.pdb
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csc.exe
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csc.exe.config
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csc.rsp
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csi.exe
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csi.exe.config
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\csi.rsp
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.AppContext.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Collections.Immutable.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Console.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.Compression.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.FileSystem.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.IO.Pipes.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.AccessControl.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Claims.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.ValueTuple.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Xml.XPath.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\vbc.exe
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\vbc.exe.config
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\vbc.rsp
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\VBCSCompiler.exe
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\roslyn\VBCSCompiler.exe.config
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.csprojAssemblyReference.cache
+E:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.csproj.CoreCompileInputs.cache
+E:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.csproj.CopyComplete
+E:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.dll
+E:\Applied Systems\Applied Systems web\Applied Systems web\obj\Debug\Applied Systems web.pdb
